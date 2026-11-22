@@ -1,7 +1,8 @@
 ## Overview
 This project enables seamless visualization of **DynamoDB data** in **Amazon QuickSight** using **AWS Athena** and **Lambda**. It integrates various AWS services to build an efficient data analytics pipeline.
 
-!Architecture Diagram(images/architecture-diagram.png)
+!<img width="1890" height="851" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/619e0f53-4440-4510-8d4e-8f9420b0baac" />
+
 
 ## Technologies Used
 - **Amazon DynamoDB**
